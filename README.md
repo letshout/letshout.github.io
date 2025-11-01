@@ -1,2 +1,2 @@
 # letshout.github.io
-This is SUN's blog
+This is letshout's blog
